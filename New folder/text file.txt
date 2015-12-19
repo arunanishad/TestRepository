@@ -2,10 +2,10 @@ content added by ashraf
 
 This content is edited by Vivek.
 
-This is conflict file.
 
 content added by ashraf
 
+this needs to be amended now....
 new changes by ashraf ... for anjani
 
 .test{
@@ -54,7 +54,17 @@ This is complex conflict file.
     margin-bottom:20px;
  
 }
+<<<<<<< HEAD
     
+=======
+.mainContentCFCN .testimonialImage img {
+
+height:80%;
+margin:auto;
+vertical-align:middle;
+margin-top:25px;
+}
+>>>>>>> 0230add3de53f596cfe31f7d1bebb89eac4e3f90
 
 
 --------****this is content me aruna*****---
