@@ -5,4 +5,8 @@ This content is edited by Vivek.
 content added by ashraf
 
 new changes by ashraf ... for anjani
-//******* some content changes here aruna***********//
+
+.test{
+color: red;
+text-align: center;
+}
