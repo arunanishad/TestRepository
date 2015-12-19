@@ -6,6 +6,12 @@ This is conflict file.
 
 content added by ashraf
 
+new changes by ashraf ... for anjani
+
+.test{
+color: red;
+text-align: center;
+}
 added content by shivam
 //******* some content changes here aruna***********//
 
@@ -46,6 +52,7 @@ This is complex conflict file.
     width: 100%;
     margin-left: 0px;
     margin-bottom:20px;
+ 
 }
     
 
