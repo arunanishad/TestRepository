@@ -42,10 +42,7 @@ This is complex conflict file.
         width: 100%;
         display: inline-block;
     }
-     .right-side {
-    width: 100%;
-    margin-left: 0px;
-    margin-bottom:20px;
+ 
 }
 
 
