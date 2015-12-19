@@ -1,0 +1,14 @@
+diff a/New folder/Test.txt.rej b/New folder/Test.txt.rej	(rejected hunks)
+@@ -1,12 +0,0 @@
+-diff a/New folder/Test.txt b/New folder/Test.txt	(rejected hunks)
+-@@ -2,3 +2,10 @@
+- 
+- resolve deaken anjani.
+- We are learning "Git".
+-+We are learning "Git".
+-+
+-+
+-+.mainContentCFCN .testimonialTitle {
+-+font-weight:normal;
+-+margin-bottom:5px;
+-+}
