@@ -1,9 +1,9 @@
 Hi Aruna !!!
 We are learning "Git".
 
-/**********this is new text aruna**********/
 
 .mainContentCFCN .testimonialTitle {
 font-weight:normal;
 margin-bottom:5px;
 }
+>>>>>>> d3bd2cc5bb9fd69fca9f1eee387157a4212b3a02
