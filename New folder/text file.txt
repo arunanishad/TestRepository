@@ -15,6 +15,8 @@ text-align: center;
 
 .h1 {background-color:red;}
 
+.p {padding: 3em;}
+
 .nav {background-color:red;}
 
 
@@ -73,3 +75,4 @@ margin-top:25px;
 
 --------****this is content me aruna*****---
 This is conflictfile.
+
