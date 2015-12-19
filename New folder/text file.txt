@@ -54,12 +54,7 @@ This is complex conflict file.
         text-align:left;
        
     }
-     .left-side {
-        width: 100%;
-        display: inline-block;
-    }
-     .right-side {
-    width: 100%;
+anjani
     
 }
 
