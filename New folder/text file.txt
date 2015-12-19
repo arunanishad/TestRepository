@@ -7,3 +7,15 @@ content added by ashraf
 
 
 --------****this is content me aruna*****---
+
+.PACMemberRow ul li.col-sm-6 {
+        display: inline-block;
+        width: 100%;
+        min-height: 610px;
+        padding: 20px 0 20px 0px;
+        margin: 0px 9px 16px;
+        float: none;
+        vertical-align: top;
+        text-align:center;
+       
+    }
