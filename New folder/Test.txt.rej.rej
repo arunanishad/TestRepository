@@ -6,8 +6,6 @@ diff a/New folder/Test.txt.rej b/New folder/Test.txt.rej	(rejected hunks)
 - resolve deaken anjani.
 - We are learning "Git".
 -+We are learning "Git".
--+
--+
 -+.mainContentCFCN .testimonialTitle {
 -+font-weight:normal;
 -+margin-bottom:5px;
