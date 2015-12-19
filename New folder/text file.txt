@@ -55,6 +55,13 @@ This is complex conflict file.
     margin-bottom:20px;
  
 }
+.mainContentCFCN .testimonialImage img {
+
+height:80%;
+margin:auto;
+vertical-align:middle;
+margin-top:25px;
+}
 
 
 
