@@ -2,6 +2,8 @@ content added by ashraf
 
 This content is edited by Vivek.
 
+This is conflict file.
+
 content added by ashraf
 //******* some content changes here aruna***********//
 
@@ -19,3 +21,4 @@ content added by ashraf
         text-align:center;
        
     }
+This is complex conflict file.
