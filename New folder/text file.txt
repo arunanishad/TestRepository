@@ -47,7 +47,8 @@ This is complex conflict file.
     margin-left: 0px;
     margin-bottom:20px;
 }
+    
 
 
 --------****this is content me aruna*****---
-
+This is conflictfile.
