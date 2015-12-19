@@ -26,5 +26,28 @@ added content by shivam
 This is complex conflict file.
 This is complex conflict file.
 
+
+ .PACMemberRow ul li.col-sm-6 {
+        display: inline-block;
+        width: 100%;
+        min-height: 400px;
+        padding: 20px 0 20px 0px;
+        margin: 0px 9px 16px;
+        float: none;
+        vertical-align: top;
+        text-align:left;
+       
+    }
+     .left-side {
+        width: 100%;
+        display: inline-block;
+    }
+     .right-side {
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom:20px;
+}
+
+
 --------****this is content me aruna*****---
 
