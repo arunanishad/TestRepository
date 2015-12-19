@@ -1,4 +1,9 @@
 Hi Aruna !!!
 We are learning "Git".
 
-some changes by shivam
+
+.mainContentCFCN .testimonialTitle {
+font-weight:normal;
+margin-bottom:5px;
+}
+>>>>>>> d3bd2cc5bb9fd69fca9f1eee387157a4212b3a02
