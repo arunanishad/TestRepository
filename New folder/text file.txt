@@ -50,9 +50,7 @@ This is complex conflict file.
     }
      .right-side {
     width: 100%;
-    margin-left: 0px;
-    margin-bottom:20px;
- 
+    
 }
 <<<<<<< HEAD
     
